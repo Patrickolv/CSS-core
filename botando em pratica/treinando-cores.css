@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+}
+
+body {
+    /*
+    background-color: green;
+    background-image: url(https://blog.esportudo.com/hs-fs/hubfs/CamisaSeleca.jpeg?width=1024&name=CamisaSeleca.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-attachment: fixed;
+    */
+    color: greenyellow;
+    background:black url(https://quartaparede.s3.us-east-2.amazonaws.com/wp-content/uploads/2019/07/30201826/tudo-ou-nada-selecao-brasileira-amazon.jpg) no-repeat top / contain border-box fixed;   
+}

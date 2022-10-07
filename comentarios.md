@@ -1,0 +1,2 @@
+Os comentários abrem com /* e terminam com */ 
+Você também pode usar um comentário para desabilitar partes do seu código, o que possibilitaria um debug mais fácil, ou caso deseje fazer alguma alteração sem quebrar todo o seu código.
